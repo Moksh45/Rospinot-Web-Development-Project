@@ -22,7 +22,7 @@ body
     box-sizing: border-box;
     font-family: sans-serif;
     background-size: cover;
-    background-image: url(men.jpg);
+    background-image: url(image/men.jpg);
 }
 .SignUp .form
 {
